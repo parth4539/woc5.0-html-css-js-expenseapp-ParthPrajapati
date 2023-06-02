@@ -3,8 +3,8 @@
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from keras_model.h5 import load_model
+import matplotlib.pyplot as plt
 import streamlit as st
 
 start = '2010-01-01'
