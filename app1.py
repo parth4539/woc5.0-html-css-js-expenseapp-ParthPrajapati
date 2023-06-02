@@ -1,6 +1,3 @@
-
-
-
 import numpy as np
 import pandas as pd
 from keras_model.h5 import load_model
