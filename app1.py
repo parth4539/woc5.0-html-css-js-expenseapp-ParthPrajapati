@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import pandas_datareader as data
 from keras_model.h5 import load_model
 import matplotlib.pyplot as plt
 import streamlit as st
